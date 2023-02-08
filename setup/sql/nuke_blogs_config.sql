@@ -1,4 +1,4 @@
-INSERT INTO `#prefix#_nsnne_config` (`config_name`, `config_value`) VALUES
+INSERT INTO `#prefix#_blogs_config` (`config_name`, `config_value`) VALUES
 ('columns', '0'),
 ('readmore', '0'),
 ('texttype', '0'),
